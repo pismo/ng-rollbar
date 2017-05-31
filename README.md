@@ -1,3 +1,5 @@
+Pismo - v2.0.1
+
 ng-rollbar
 ==========
 
