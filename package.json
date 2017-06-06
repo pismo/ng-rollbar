@@ -5,14 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tandibar/ng-rollbar.git"
+    "url": "https://github.com/pismo/ng-rollbar.git"
   },
   "author": "Andreas Bade",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tandibar/ng-rollbar/issues"
+    "url": "https://github.com/pismo/ng-rollbar/issues"
   },
-  "homepage": "https://github.com/tandibar/ng-rollbar",
+  "homepage": "https://github.com/pismo/ng-rollbar",
   "devDependencies": {
     "angular": "^1.5.5",
     "angular-mocks": "^1.5.5",

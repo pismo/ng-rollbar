@@ -2,7 +2,7 @@
   "name": "ng-rollbar",
   "main": "ng-rollbar.js",
   "version": "1.9.5",
-  "homepage": "https://github.com/tandibar/ng-rollbar",
+  "homepage": "https://github.com/psimo/ng-rollbar",
   "authors": [
     "Andreas Bade <andreas.bade@identpro.de>"
   ],
