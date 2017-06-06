@@ -1,7 +1,7 @@
 (function(angular){
-  angular.module('tandibar/ng-rollbar', []);
+  angular.module('pismo/ng-rollbar', []);
 
-  angular.module('tandibar/ng-rollbar').config(['$provide', function($provide) {
+  angular.module('pismo/ng-rollbar').config(['$provide', function($provide) {
     $provide.decorator('$exceptionHandler', ['$delegate', '$injector', '$window', function($delegate, $injector, $window) {
       return function (exception, cause) {
         if($window.Rollbar) {
@@ -19,7 +19,7 @@
     }]);
   }]);
 
-  angular.module('tandibar/ng-rollbar').provider('Rollbar', function RollbarProvider() {
+  angular.module('pismo/ng-rollbar').provider('Rollbar', function RollbarProvider() {
     var rollbarProvider = this;
     var rollbarActivated = true;
 

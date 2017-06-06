@@ -44,7 +44,7 @@ describe('[Rollbar Service]', function() {
         function initializeModule(triggerDeinit) {
 
             // initialize the ng-rollbar module
-            module('tandibar/ng-rollbar');
+            module('pismo/ng-rollbar');
 
             // capture the provider and optionally deinit
             module(function(RollbarProvider) {

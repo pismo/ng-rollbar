@@ -21,7 +21,7 @@ Installation
 
 You can use [bower](http://bower.io/) to install this frontend dependency: `bower install ng-rollbar --save`
 
-Or you can just clone this repo: `git clone https://github.com/tandibar/ng-rollbar.git`
+Or you can just clone this repo: `git clone https://github.com/pismo/ng-rollbar.git`
 
 Usage
 -----
@@ -37,7 +37,7 @@ Add the library into your application:
 Add the module as dependency to your angular app:
 
 ```javascript
-angular.module('myApp', ['tandibar/ng-rollbar', ...])
+angular.module('myApp', ['pismo/ng-rollbar', ...])
 ```
 
 ### Initialize
