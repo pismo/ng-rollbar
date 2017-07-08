@@ -1,4 +1,16 @@
-Pismo - v2.0.1
+pismo/ng-rollbar - v2.1.0
+=========================
+
+Instruções
+----------
+Faça o clone deste projeto: `git clone https://github.com/pismo/ng-rollbar.git`   
+Instale as dependências do projeto: `npm i`   
+Faça o update da lib rollbar.js usando o grunt: `grunt update-lib:2.1.0`   
+Rode os testes: `npm t`   
+Atualize o início deste README com a nova versão   
+Comite sua atualização e faça o push para o repositório  
+
+---
 
 ng-rollbar
 ==========
