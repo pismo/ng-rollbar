@@ -2,9 +2,9 @@
   "name": "ng-rollbar",
   "main": "ng-rollbar.js",
   "version": "2.1.0",
-  "homepage": "https://github.com/psimo/ng-rollbar",
+  "homepage": "https://github.com/pismo/ng-rollbar",
   "authors": [
-    "Andreas Bade <andreas.bade@identpro.de>"
+    "Devs <devs@pismolabs.com.br>"
   ],
   "description": "AngularJS integration for Rollbar",
   "keywords": [
