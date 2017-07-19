@@ -8,7 +8,8 @@ Instale as dependências do projeto: `npm i`
 Faça o update da lib rollbar.js usando o grunt: `grunt update-lib:2.1.0`   
 Rode os testes: `npm t`   
 Atualize o início deste README com a nova versão   
-Comite sua atualização, gere uma nova tag com esta versão e faça o push para o repositório  
+Rode o comando `grunt release:2.1.0`   
+(O comando acima irá comitar sua atualização, gerar uma nova tag com esta versão e fazer o push para o repositório. Opcionalmente, você pode fazer isso na mão)   
 
 ---
 
